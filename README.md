@@ -1,2 +1,2 @@
 # C-OPS
-contains newly made systems programs written in GNU C99.
+contains newly made systems programs written ONLY in GNU C99.
